@@ -1,5 +1,5 @@
 context:
-  version: "0.5.0"
+  version: "0.6.0"
 
 package:
   name: kickstart
@@ -7,10 +7,10 @@ package:
 
 source:
   url: https://github.com/Keats/kickstart/archive/v${{ version }}.tar.gz
-  sha256: 2a1a335c70b81757abf4240a52ebce231501f731f3d73decbed4133d18ad1386
+  sha256: 0888ca59bc11e2c9531957047973b3f4d28e4270c03d1272f29d8b73f12bb142
 
 build:
-  number: 1
+  number: 0
 
 requirements:
   build:
